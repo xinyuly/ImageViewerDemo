@@ -1,0 +1,6 @@
+module Pods_ImageViewer {
+  umbrella header "Pods-ImageViewer-umbrella.h"
+
+  export *
+  module * { export * }
+}
